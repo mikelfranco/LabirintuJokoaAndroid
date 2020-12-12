@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labirintu Jokoa</string>
+    <string name="berria">Labirintu berria sortu</string>
+    <string name="ebatzi">Bidea ebatzi</string>
+    <string name="gorde">Irudia gorde</string>
+    <string name="zorionak">ZORIONAK! IRABAZI DUZU!</string>
+    <string name="baimenak_falta">Aplikazioak baimenak falta ditu</string>
+    <string name="bai">BAI</string>
+    <string name="ez">EZ</string>
+    <string name="ezezaguna">EZEZAGUNA</string>
+    <string name="zailtasun_erraza">ERRAZA</string>
+    <string name="zailtasun_arrunta">ARRUNTA</string>
+    <string name="zailtasun_zaila">ZAILA</string>
+    <string name="zailtasun_oso_zaila">OSO ZAILA</string>
+    <string name="zailtasun_zoratzekoa">ZORATZEKOA</string>
+    <string name="zailtasun_emantirobat">BANOA HEMENDIK :\'(</string>
+    <string name="partida_berria">GOZATU BESTE PARTIDA BERRI BATEKIN ;)</string>
+    <string name="partidarik_ez">AGIAN HURRENGOAN ;)</string>
+    <string name="fitxategia_gordeta">Gorde da \'</string>
+    <string name="fitxategia_bukaera">\' fitxategia.</string>
+    <string name="irabazi_duzu">IRABAZI DUZU</string>
+    <string name="berriz_jolastu_nahi_duzu">Berriz jolastu nahi duzu?</string>
+</resources>

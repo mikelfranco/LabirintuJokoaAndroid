@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laberinto</string>
+    <string name="berria">Crear nuevo laberinto</string>
+    <string name="ebatzi">Solucionar laberinto</string>
+    <string name="gorde">Guardar imagen</string>
+    <string name="zorionak">¡FELICIDADES, HAS GANADO!</string>
+    <string name="baimenak_falta">Faltan permisos de aplicación</string>
+    <string name="bai">SÍ</string>
+    <string name="ez">NO</string>
+    <string name="ezezaguna">DESCONOCIDO</string>
+    <string name="zailtasun_erraza">FÁCIL</string>
+    <string name="zailtasun_arrunta">NORMAL</string>
+    <string name="zailtasun_zaila">DIFÍCIL</string>
+    <string name="zailtasun_oso_zaila">MUY DIFÍCIL</string>
+    <string name="zailtasun_zoratzekoa">LOCURA</string>
+    <string name="zailtasun_emantirobat">ME VOY :\'(</string>
+    <string name="partida_berria">DISFRUTA DE UN NUEVO JUEGO ;)</string>
+    <string name="partidarik_ez">QUIZÁS EN OTRA OCASIÓN ;)</string>
+    <string name="fitxategia_gordeta">Guardado el fichero \'</string>
+    <string name="fitxategia_bukaera">\'.</string>
+    <string name="irabazi_duzu">HAS GANADO</string>
+    <string name="berriz_jolastu_nahi_duzu">¿Quieres jugar de nuevo?</string>
+</resources>

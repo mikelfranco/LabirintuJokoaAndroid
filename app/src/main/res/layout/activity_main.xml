@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/com.unieibar.uni_55_labirintua"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/llv_nagusia"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="end">
+
+    <LinearLayout
+        android:id="@+id/llh_botoiak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:orientation="horizontal">
+
+        <Spinner
+            android:id="@+id/sp_zailtasuna"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:focusable="auto" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_berria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:clickable="true"
+            android:contentDescription="@string/berria"
+            android:focusable="true"
+            app:srcCompat="@drawable/ic_berria" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_ebatzi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:clickable="true"
+            android:contentDescription="@string/ebatzi"
+            android:focusable="true"
+            app:srcCompat="@drawable/ic_ebatzi" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_gorde"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:clickable="true"
+            android:contentDescription="@string/ebatzi"
+            android:focusable="true"
+            app:srcCompat="@drawable/ic_gorde" />
+
+    </LinearLayout>
+
+    <com.unieibar.uni_58_labirintua.view.LabirintuaView
+        android:id="@+id/labirintua"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        app:atzekaldea_kolorea="#3365C4F6"
+        app:jokalari_kolorea="#02A8E3"
+        app:marra_kolorea="#013787"
+        custom:marra_kolorea="@color/purple_700"
+        custom:zailtasuna="ERRAZA" />
+
+    <com.unieibar.uni_58_labirintua.view.GeziakView
+        android:id="@+id/gv_kontrola"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+
+</LinearLayout>

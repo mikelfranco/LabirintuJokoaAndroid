@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E040FB</color>
+    <color name="purple_500">#02A8E3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#18FFFF</color>
+    <color name="teal_700">#02A8E3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ic_labirintua_background">#BA61DC</color>
+</resources>

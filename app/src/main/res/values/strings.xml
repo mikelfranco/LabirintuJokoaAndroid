@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Maze Game</string>
+    <string name="berria">New Maze</string>
+    <string name="ebatzi">Solve Maze</string>
+    <string name="gorde">Save image</string>
+    <string name="zorionak">Congrats! You won!</string>
+    <string name="baimenak_falta">Permisions needed</string>
+    <string name="bai">YES</string>
+    <string name="ez">NO</string>
+    <string name="ezezaguna">UNKNOWN</string>
+    <string name="zailtasun_erraza">EASY</string>
+    <string name="zailtasun_arrunta">NORMAL</string>
+    <string name="zailtasun_zaila">HARD</string>
+    <string name="zailtasun_oso_zaila">VERY HARD</string>
+    <string name="zailtasun_zoratzekoa">CRAZINESS</string>
+    <string name="zailtasun_emantirobat">I\'M LEAVING :\'(</string>
+    <string name="partida_berria">Enjoy a new game ;)</string>
+    <string name="partidarik_ez">Maybe next time ;)</string>
+    <string name="fitxategia_gordeta">Saved file \'</string>
+    <string name="fitxategia_bukaera">\'.</string>
+    <string name="irabazi_duzu">YOU WON</string>
+    <string name="berriz_jolastu_nahi_duzu">Would you like to play again?</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LabirintuaView">
+        <attr name="zailtasuna" format="enum">
+            <enum name="ERRAZA" value="0"/>
+            <enum name="ARRUNTA" value="1"/>
+            <enum name="ZAILA" value="2"/>
+            <enum name="OSO_ZAILA" value="3"/>
+            <enum name="ZORATZEKOA" value="4"/>
+        </attr>
+        <attr name="marra_kolorea" format="color"/>
+        <attr name="jokalari_kolorea" format="color"/>
+        <attr name="atzekaldea_kolorea" format="color"/>
+    </declare-styleable>
+    <declare-styleable name="GeziakView">
+        <attr name="atzekaldea_color" format="color"/>
+        <attr name="gezia_color" format="color"/>
+        <attr name="gezia_color_push" format="color"/>
+    </declare-styleable>
+</resources>
